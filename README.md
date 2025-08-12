@@ -9,4 +9,6 @@ Ravjot Kaur   IT C
 - Principal sir 'Mr. Sehajpal Singh'
 - HOD apl sc 'Harpreet Kaur'
 - HOD OF IT 'Mr. KS Maan
+ # Day 2 
+ ## 1:00 to 2:00 
  
